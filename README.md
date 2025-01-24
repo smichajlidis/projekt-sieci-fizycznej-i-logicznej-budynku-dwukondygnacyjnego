@@ -22,5 +22,5 @@ Wykonaj projekt sieci fizycznej i logicznej dla przedstawionego projektu budynku
 ## Zawartość repozytorium
 
 ### 1. Projekt fizyczny
-- [`projekt-sieci-komputerowej.abc`](projekt-fizyczny/projekt-sieci-komputerowej.abc) – projekt sieci komputerowej w formacie abc.
+- [`projekt-sieci-komputerowej.docx`](projekt-fizyczny/projekt-sieci-komputerowej.docx) – projekt sieci komputerowej w formacie docx.
 - [`projekt-sieci-komputerowej.pdf`](projekt-fizyczny/projekt-sieci-komputerowej.pdf) – projekt sieci w formacie pdf.
