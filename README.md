@@ -10,6 +10,10 @@ Zadanie pochodzi z podręcznika do przygotowania do kwalifikacji INF.02 Jarosła
 
 Wykonaj projekt sieci fizycznej i logicznej dla przedstawionego projektu budynku dwukondygnacyjnego (kondygnacje są identyczne, a schody pomijamy). W każdym z pomieszczeń powinny pracować po dwa komputery oraz drukarka sieciowa. Parter i piętro powinny mieć osobne podsieci. W budynku wydzielone są miejsca na serwerownie.
 
+### Wizualizacja kondygnacji
+
+![Wizualizacja kondygnacji](obrazy/wizualizacja-kondygnacji.png)
+
 **Wymagania:**
 - W każdym pomieszczeniu:
   - 2 komputery,
