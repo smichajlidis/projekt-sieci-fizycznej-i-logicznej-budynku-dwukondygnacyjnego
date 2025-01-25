@@ -18,7 +18,6 @@ Wykonaj projekt sieci fizycznej i logicznej dla przedstawionego projektu budynku
 - W każdym pomieszczeniu:
   - 2 komputery,
   - 1 drukarka sieciowa,
-  - 1 aparat telefoniczny VoIP.
 - Serwerownia na każdym piętrze.
 
 ---
